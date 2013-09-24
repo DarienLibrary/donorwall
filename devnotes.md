@@ -34,11 +34,11 @@ As we are a public library and we believe that sharing and openness is an inhere
 ## Back-end specifications
 
 * Simple upload form
-** Ability to search MySQL database by name and select a donor name to associate a file with
-** Once a donor name is selected, an upload form will be presented and a radio button allowing the staff member to select between audio/visual/text.
-** No processing of the uploaded file is needed, it simply needs to be stored on the local filesystem in a definable location.
-** Schema is already established
-** The upload form is completely standalone and will reside on a separate server
+  * Ability to search MySQL database by name and select a donor name to associate a file with
+  * Once a donor name is selected, an upload form will be presented and a radio button allowing the staff member to select between audio/visual/text.
+  * No processing of the uploaded file is needed, it simply needs to be stored on the local filesystem in a definable location.
+  * Schema is already established
+  * The upload form is completely standalone and will reside on a separate server
 * Sample data will be provided but must be treated as confidential.
 
 ## User types
